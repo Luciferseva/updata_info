@@ -1,0 +1,9 @@
+{
+    "PulseSensor":
+        {
+            "LatestVerison":"V1.2",
+            "Url":"http://192.168.0.89/software_update.json",
+            "UpdateTime":"2019-03-31",
+                "ReleaseNote":"\n1.添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.\n2.优化“关于”界面"
+        }
+}
